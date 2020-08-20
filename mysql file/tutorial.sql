@@ -362,7 +362,7 @@ INSERT INTO `users` (`id`, `username`, `email`, `amount`, `password`, `image`, `
 (1, 'pitocmsssss', 'demo123@admin.com', 0, '$2y$10$kcprj5VbJlJgcJXx3U5SJuFLmnlk5kNJKrpScZ8HQO6H7O9WgEHpi', 'user-img/template.jpg', 0, '2020-04-01 07:14:22', '2020-04-16 15:47:37'),
 (2, 'test232', 'test@test.com', 0, '$2y$10$jQaO3/f3tpSjbpduPmZ59O99knmqxB8TtQzlfYPfc11AV7Cq/K5S.', 'user-img/8709387_orig.jpg', 1, '2020-04-01 07:14:42', '2020-04-12 13:41:24'),
 (3, 'pitocms', 'pitocms@yahoo.com', 0, '$2y$10$yIXWSpsXIOeFoqomVHaggesm6rpUDFVTv2375uSHRKLQJVuUgf7X.', 'user-img/p120274.jpg', 1, '2020-04-03 15:15:44', '2020-04-12 13:41:34'),
-(6, 'jone', 'jone@test.com', 0, '$2y$10$VYFJspmwfYxKJdxXNLt3q.6AE/y6lDgb/ToErsQgd5qOKNcxOFKOm', 'user-img/8709387_orig.jpg', 1, '2020-04-10 07:35:31', '2020-04-16 15:47:00'),
+(6, 'jonee', 'jone@test.com', 0, '$2y$10$VYFJspmwfYxKJdxXNLt3q.6AE/y6lDgb/ToErsQgd5qOKNcxOFKOm', 'user-img/8709387_orig.jpg', 1, '2020-04-10 07:35:31', '2020-04-16 15:47:00'),
 (11, 'jone2', 'jone2@test.com', 0, '$2y$10$Gld7CN3KF4LxvizhmQwo/uVgYyU.V2bZDlhIgscoXCZ72dIUQVmzS', 'user-img/8709387_orig.jpg', 1, '2020-04-13 14:33:23', '2020-04-13 14:33:23');
 
 --
